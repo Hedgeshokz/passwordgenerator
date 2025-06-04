@@ -1,6 +1,5 @@
 ### 🔐 Secure Password Generator
 
-```
 
 JJJJJ  EEEEE  SSSSS  DDDD   EEEEE  V     V
   J    E      S      D   D  E      V     V
@@ -8,8 +7,6 @@ JJJJJ  EEEEE  SSSSS  DDDD   EEEEE  V     V
 J J    E          S  D   D  E        V V
 JJ     EEEEE  SSSSS  DDDD   EEEEE     V
 
-      
-```
 
 ## 🔒 Sichere Passwörter mit Python
 
