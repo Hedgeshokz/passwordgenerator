@@ -63,6 +63,6 @@ For production use, you can disable logging and securely handle the output.
 
 ## 📄 License
 
-MIT License – free to use, including for commercial purposes.  
+With License – free to use, including for commercial purposes.  
 
 Created with 💜 by R3MU5
