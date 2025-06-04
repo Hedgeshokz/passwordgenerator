@@ -9,63 +9,60 @@
                                                                    
       
 ```
+## 🔒 Secure Passwords with Python
 
-## 🔒 Sichere Passwörter mit Python
-
-Dieses kleine, aber leistungsfähige Python-Programm generiert **sichere und zufällige Passwörter**, die modernen Sicherheitsstandards entsprechen.
+This small but powerful Python program generates secure and random passwords that comply with modern security standards.
 
 ---
 
 ## 🚀 Features
 
-- Enthält Groß- und Kleinbuchstaben (A–Z, a–z)
-- Integriert Zahlen (0–9)
-- Nutzt Sonderzeichen (!@#$%^&* usw.)
-- Zufällige Zeichenreihenfolge
-- Anpassbare Passwortlänge
-- Minimallänge von 8 Zeichen für Sicherheit
+- Includes uppercase and lowercase letters (A–Z, a–z)
+- Integrates numbers (0–9)
+- Uses special characters (!@#$%^&* etc.)
+- Random character order
+- Customizable password length
+- Minimum length of 8 characters for security
 
 ---
 
-## 🛠️ Voraussetzungen
+## 🛠️ Requirements
 
 - **Python 3.6+**  
-- Keine externen Libraries notwendig
+- No external libraries required
 
 ---
 
-## ▶️ Nutzung
+## ▶️ Usage
 
 ```bash
-python passwort_generator.py
+python password_generator.py
 ```
 
-Beispielausgabe:
+Example output:
 ```
-Generiertes Passwort: 7#VafpTz$mbQe2R!
+Generated password: 7#VafpTz$mbQe2R!
 ```
 
 ---
 
-## ✏️ Beispielcode
+## ✏️ Example Code
 
 ```python
-generate_secure_password(16)  # Generiert ein 16-stelliges Passwort
+generate_secure_password(16)  # Generates a 16-character password
 ```
 
 ---
 
-## ⚠️ Sicherheitshinweis
+## ⚠️ Security Notice
 
-Dieses Tool dient als **lokales Hilfsmittel** zum Erzeugen starker Passwörter. Teile deine generierten Passwörter **niemals öffentlich**. Für produktive Nutzung kannst du Logging deaktivieren und die Ausgabe gezielt sichern.
-
----
-
-## 📄 Lizenz
-
-MIT License – frei nutzbar, auch kommerziell.  
-Created with 💡 by JESDEV
+This tool is intended as a **local utility** for generating strong passwords. **Never share your generated passwords publicly.**  
+For production use, you can disable logging and securely handle the output.
 
 ---
 
-Stay Cybersave! 👨‍💻👩‍💻
+## 📄 License
+
+MIT License – free to use, including for commercial purposes.  
+
+Created with 💜 by R3MU5
